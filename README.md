@@ -1,5 +1,9 @@
 # Smart Study Planner
 
+## demo
+https://github.com/user-attachments/assets/9a92e8ff-3ad9-47cd-9d45-0b7e66ac76a5
+
+
 A comprehensive study planning application for exam preparation. Plan your study schedule, create flashcards, take quizzes, and generate exam tickets—all managed locally in your browser.
 
 preview - https://study-project-six.vercel.app/
@@ -279,3 +283,4 @@ This is an MVP. Suggestions and improvements welcome!
 ---
 
 **Built with**: Next.js 14, TypeScript, Tailwind CSS, Zustand, date-fns, Vitest, Playwright
+
